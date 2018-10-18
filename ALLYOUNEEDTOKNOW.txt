@@ -1,0 +1,223 @@
+
+
+ llllll                                      llllll
+  lllll                ***                   lllll
+   llll----   -----------------------    ----llll
+    lll---- // Yena UI first Version \\  ----lll
+     ll----   -----------------------    ----ll
+                       
+                       ***
+
+
+Hi, Here's the first version of My personnal UI for wow Vanilla 1.12
+
+
+
+
+Addons within List :
+
+ 
+ - Ace 1/2
+ - Atlas + Atlas Loot "Enhanced"
+
+*Base addons a must, and map graphical version of atlas loot*
+
+
+ - BattlefieldCommander 2
+
+*A special rare and unfamous addon but extremly usefull ins BG, map etc.., type /bfc to display,
+and chill mouse at top left corner (3 sec) to display menu*
+
+
+ - BGbuddy
+
+*Addon to manage queueing bg, /bgbuddy to options"
+
+
+ - BigWigs
+
+*A must addon for boss raiding info*
+
+
+ - Bongos
+
+*A custom Action Bars easily managed, graphic ui for options is a must, /bongos to options*
+
+
+ - Buffalo
+
+*An Addon used to have a best view of buff/debuffs, /bufallo to options*
+
+
+ - CCWatch
+
+*An addon displaying CC timer on screen (bars), type /CCW to options*
+
+
+ - ChatScroll
+
+*Allow easy chat scrolling"
+
+
+ - ClassicSnowFall
+
+*A MUST HAVE, allow trigger keys to start at press instead of release*
+
+
+ - CoolDownCOunt
+
+*Display Timer of your Cooldown with numbers and color of your choice*
+
+
+ - CornerMinimap
+
+*Addons to make minimap new school friendly*
+
+
+ - ChtunWarner
+
+*A must pve addons for Chtun boss fight placement*
+
+
+ - Decursive
+
+*Another musthave for caster dispelling class*
+
+
+ - Deucecommander
+
+* Help to manage some of the other addons, make graphical, but not important*
+
+
+ - Dpsmate
+
+*Pve again, addon that display your damage in raid, compared to other and many other things*
+
+
+ - eCastingBar
+
+*A customizable Advanced Castbar (can display lag + name of spell and rank)*
+
+
+ - EzDismount
+
+*Allow you to dismount when using a spell or any other action*
+
+
+ - Gatherer
+
+*Addon for mining/herbalism etc.. can save mine locations and make farming road maps*
+
+
+ - Gmail
+
+*Really usefull addon for mailing easily*
+
+
+
+ - ImprovedErrorFrame
+
+*Addon that hide error message spam, usefull*
+
+
+ - Itemrack
+
+*Something to manage your gear quickly change when off fight and in fight for weapons*
+
+
+ - KLH Threatmeter
+
+*Addon to display aggro Level and raid list*
+
+
+
+ - LunaUnitFrames
+
+*One of the MOST IMPORTANT addon, raid management with many many tools, graphic UI options..*
+
+
+ - Prat
+
+*Not usefull but can help for manage chat window easily*
+
+
+ - Range color
+
+*Change color of icon in red when target is to far for cast*
+
+
+ - ReagentCount
+
+*Another one i left autoset to manage Color icons etc..*
+
+
+ - SuperMacro
+
+*Activate this addon only if you need make long script macro, heavy*
+
+
+ - THeoryCraft
+
+*Addon to manage your stats..*
+
+
+
+    ----------------------------***--------------------------
+  ------------------------------***----------------------------
+ -------------------------------***-----------------------------
+--------------------------------***-------------------------------
+
+
+Ok, so this is the first and only version i released at this time (18:10:2018)
+
+Im not claiming this as the best ui ever, there is surely lot of many interesting addons to use,
+It is my set to go, it's not heavy Ui, mostly light you can set it up lighter if you run low config.
+
+With this addons choice in UI can just ensure you run a correct addons setting, allow you peacefully playing
+in pvp/pve, you just have to spend a few time to set this up correctly and you'll do great.
+
+
+Special Thanks to nate, berg, photon, NikolaTesla, Annie..
+
+
+
+Links :
+
+
+FonTaBulous (Ankle Version) : https://www.dropbox.com/s/b0mc4hfuxabgu1w/%21%21FonTabulousFr.zip?dl=0
+
+My Gatherer spots DB : https://www.dropbox.com/s/d2kk15g40x3crdv/Gatherer.rar?dl=0
+
+*Secret link : The Lewd Bible (a numerized version of the (best)excellent Rogue guide for vanilla, 
+*made by Lewd : https://www.dropbox.com/s/00nooo8f4sfqjg9/LEWD%20ROGUE%20BIBLE.rar?dl=0 
+
+
+More :
+
+
+Baron von BALDR Rogue PvP Video (Edit ANkle) : https://www.youtube.com/watch?v=AtNVD9B3f3s
+
+
+
+
+**(This UI is under Open source project, feel free to add modification but i just ask you to credit the init version
+add github info to credits, Thanks ^^).**
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+ 
